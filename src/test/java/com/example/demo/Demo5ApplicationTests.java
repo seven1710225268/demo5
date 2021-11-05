@@ -8,7 +8,7 @@ class Demo5ApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("Hollow World");
+        System.out.println("1");
     }
 
 }
