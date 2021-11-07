@@ -5,7 +5,7 @@ import com.example.demo.utils.Utilities;
 import com.mongodb.client.result.DeleteResult;
 import org.springframework.data.mongodb.core.MongoOperations;
 
-public class userdao {
+public class userdao{
 
     private static final MongoOperations mongoOperations = Utilities.GetMongoTemplate();
 
